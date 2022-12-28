@@ -65,11 +65,7 @@
 <br /> -->
 
 <!-- --- -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelali12-codes&show_icons=true&locale=en&layout=compact" alt="Abdelali12-codes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelali12-codes&show_icons=true&locale=en" alt="Abdelali12-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelali12-codes&" alt="Abdelali12-codes" /></p>
 
 <!-- ### 📺 Latest YouTube Videos -->
 
