@@ -1,8 +1,8 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+ELMEHDI+HMICHE;Full+stack+web+developer...;Data+ENGINEER+Enthusiast...;"/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>A Data Science undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -16,14 +16,13 @@
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 How to reach me ...mehdi.hmiche@gmail.com.
 
 <hr>
 
 <!---
 
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
 --->
 
@@ -92,11 +91,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hmiche&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmiche"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmiche&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
