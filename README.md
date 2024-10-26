@@ -11,10 +11,8 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
-
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
+- 💡 I’m curious about ...Blockchain and Crypto Currency SOLANA Dev.
+- 📖 I’m currently learning ...Nest JS.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...mehdi.hmiche@gmail.com.
 
